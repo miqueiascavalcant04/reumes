@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Doe It</string>
+    <string name="initial_text">“É a intenção, e não a doação, que faz o doador”, Gotthold Lessing</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastroDoador">Cadastre-se como Doador</string>
+    <string name="text_cadastroDonatario">Cadastre-se como Donatário</string>
+    <string name="title_cadastro">Cadastro Doador</string>
+    <string name="loreIp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt turpis sit amet urna volutpat, id posuere velit gravida. Cras luctus convallis metus, sit amet convallis orci vehicula nec. Vestibulum viverra et eros vel aliquet. Nullam nisl arcu, commodo ut pretium eu, pharetra et velit.</string>
+    <string name="ola">Olá, </string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="doacoes_disponiveis">Doações Disponíveis</string>
+    <string name="doacoes_recebidas">Doações Recebidas</string>
+</resources>

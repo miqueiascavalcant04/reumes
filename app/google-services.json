@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292067609167",
+    "project_id": "projeto-doe-it",
+    "storage_bucket": "projeto-doe-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292067609167:android:0e983cda2966acaf13f83a",
+        "android_client_info": {
+          "package_name": "com.example.doeit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJglru1m4TTaWp6EZyIdKc1CjfGU-Vn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
